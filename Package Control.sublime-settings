@@ -1,0 +1,32 @@
+{
+	"installed_packages":
+	[
+		"AMDtools",
+		"Bootstrap 3 Jade Snippets",
+		"CSS Media Query Snippets",
+		"CSSLint",
+		"Emmet",
+		"Handlebars",
+		"HTML2Jade",
+		"HtmlTidy",
+		"Indent XML",
+		"Jade",
+		"Jade Snippets",
+		"JavaScript & NodeJS Snippets",
+		"Javascript Beautify",
+		"JavaScript Multiline",
+		"JavaScript Patterns",
+		"JavaScript Snippets",
+		"JS Snippets",
+		"JSONLint",
+		"Nodejs",
+		"Package Control",
+		"Pretty JSON",
+		"SCSS",
+		"Stylus",
+		"Stylus-Snippets",
+		"W3CValidators",
+		"xml2json",
+		"xmllint"
+	]
+}

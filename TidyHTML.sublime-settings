@@ -1,0 +1,17 @@
+/*
+ * see http://w3c.github.com/tidy-html5/quickref.html for options
+ */
+{
+    "TidyHTML": {
+        "options": [{
+            "indent": "yes"
+        }, {
+            "indent-spaces": "1"
+        }, {
+            "wrap": "0"
+        }, {
+            "break-before-br": "yes"
+        }],
+        "filetypes": [".html", ".htm"]
+    }
+}
